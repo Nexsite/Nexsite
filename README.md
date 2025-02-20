@@ -1,4 +1,4 @@
-## latest Projects 
+## Latest Projects 
 
 - Personal Website For an Artist - <a href="https://www.kainmendis.online">Live Preview</a>
 
