@@ -1,16 +1,15 @@
-<h1 align="center">Hi 👋, I'm Nexsite</h1>
-<h3 align="center">A frontend developer from Sri Lanka</h3>
+# About Me
+Hi, I'm a 17-year-old self-taught web developer from Sri Lanka. I'm passionate about building things with code and always looking to improve by creating real-world projects. I'm currently learning React.js and Tailwind CSS to level up my frontend skills, and I enjoy working with HTML, CSS, JavaScript, and Git. My goal is to become a full-stack developer, contribute to open-source, and keep growing every day. Thanks for visiting my profile!
 
-- 🔭 I’m currently working on [My Portfolio](not-found)
+# Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,netlify,react,tailwindcss)](https://skillicons.dev) <br>
 
-- 🌱 I’m currently learning **ReactJs**
 
-- 📫 How to reach me **nexsite.contact@gmail.com**
+# Contact Me
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/pawanhirumina) [![Instagram](https://skillicons.dev/icons?i=instagram)](www.instagram.com/pawan.hirumina) [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:nexsite.contact@gmail.com) 
 
-<p align="center">
-<h3>Languages and Tools:</h3>
-  
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev) <br>
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,photoshop,cloudflare)](https://skillicons.dev)
 
-</p>
+
+
+
+
