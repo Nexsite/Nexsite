@@ -5,11 +5,6 @@ Hi, I'm a 17-year-old self-taught web developer from Sri Lanka. I'm passionate a
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,netlify,react,tailwindcss)](https://skillicons.dev) <br>
 
 
-# Contact Me
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pawanhirumina) 
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/pawan.hirumina) 
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:nexsite.contact@gmail.com) 
-
 
 
 
