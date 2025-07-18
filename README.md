@@ -6,5 +6,5 @@ Hi, I'm a 17-year-old self-taught web developer from Sri Lanka. I always looking
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pawanhirumina&layout=compact&card_width=1000&theme=dark)](https://github.com/yourusername)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pawanhirumina&layout=compact&card_width=100&theme=dark)](https://github.com/yourusername)
 
